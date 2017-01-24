@@ -1,2 +1,2 @@
-johnt3: John Tokarowski
+jtokarowski: johnt3
 rsromer: Ramon Sanchez Romero
